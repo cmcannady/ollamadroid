@@ -1,6 +1,4 @@
-#
 # ollamadroid - Ollama for Android
-#
 
 A community-driven Android application for running Ollama models locally on Pixel devices (Pixel 7 and newer).
 
